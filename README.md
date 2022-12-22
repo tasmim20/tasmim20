@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasmim Rahman</h1>
-<h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
+<h3 align="center">A passionate Front-End Web Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasmim20&label=Profile%20views&color=0e75b6&style=flat" alt="tasmim20" /> </p>
