@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS,TailwindCSS, Bootstrap, React, Firebase,**
 
-- 📫 How to reach me **tasmimrahman@gmail.com**
+- 📫 How to reach me **tasmimrahman2000@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1M0sutaETx9qmeKZ-JWZr5I_gG4GgdM4Q/view?usp=share_link](https://drive.google.com/file/d/1M0sutaETx9qmeKZ-JWZr5I_gG4GgdM4Q/view?usp=share_link)
 
