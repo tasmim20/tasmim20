@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://gorgeous-centaur-2e4bb6.netlify.app](https://gorgeous-centaur-2e4bb6.netlify.app)
+- 👨‍💻 All of my projects are available at [https://tasmim-portfolio.netlify.app](https://tasmim-portfolio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS,TailwindCSS, Bootstrap, React, Firebase, Node js, Express js, Mongodb**
+- 💬 Ask me about **HTML, CSS,TailwindCSS, Bootstrap,TailwindCSS,Daisy UI,Material UI, Shadcn,ANT Design, React,Nextjs, Redux,TypeScript, Firebase, Node js, Express js, Mongodb, Moongoose**
 
 - 📫 How to reach me **tasmimrahman2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M0sutaETx9qmeKZ-JWZr5I_gG4GgdM4Q/view?usp=share_link](https://drive.google.com/file/d/1M0sutaETx9qmeKZ-JWZr5I_gG4GgdM4Q/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XNnurxESV6KFYiXZnhVfYDiAZjq-jKuP/view?usp=sharing](https://drive.google.com/file/d/1XNnurxESV6KFYiXZnhVfYDiAZjq-jKuP/view?usp=sharing)
 
 - ⚡ Fun fact **I won all-you-can-eat competition**
 
