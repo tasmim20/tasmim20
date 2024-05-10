@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="800" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" >
+
 <h1 align="center">Hi there👋, I'm Tasmim Rahman</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" >
