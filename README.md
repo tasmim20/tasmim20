@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/DpdHHvg)](https://ibb.co/DpdHHvg)
+[![MasterHead](https://i.ibb.co/pyqBBMr/Black-and-White-Gradient-Personal-Linked-In-Banner.png)](https://i.ibb.co/pyqBBMr/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
 <h1 align="center">Hi there👋, I'm Tasmim Rahman</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" >
