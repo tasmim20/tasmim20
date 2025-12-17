@@ -1,17 +1,17 @@
 [![MasterHead](http://res.cloudinary.com/dwmwpmrpo/image/upload/v1715366569/qbnz78aqrqixwkiwoslu.png)](http://res.cloudinary.com/dwmwpmrpo/image/upload/v1715366569/qbnz78aqrqixwkiwoslu.png)
 <h1 align="center">Hi there👋, I'm Tasmim Rahman</h1>
-<h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasmim20&label=Profile%20views&color=0e75b6&style=flat" alt="tasmim20" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://tasmim-portfolio.netlify.app](https://tasmim-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tasmim-rahman.vercel.app/](https://tasmim-rahman.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS,TailwindCSS, Bootstrap,TailwindCSS,Daisy UI,Material UI, Shadcn,ANT Design, React,Nextjs, Redux,TypeScript, Firebase, Node js, Express js, Mongodb, Moongoose**
+- 💬 Ask me about **HTML, CSS,TailwindCSS, Bootstrap,TailwindCSS,Daisy UI,Material UI, Shadcn,ANT Design, React,Nextjs, Redux,TypeScript, Firebase, Node js, Nestjs, Express js, Mongodb, Moongoose, Postgresql, Prisma**
 
-- 📫 How to reach me **tasmimrahman2000@gmail.com**
+- 📫 How to reach me **tasmim.tr@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XNnurxESV6KFYiXZnhVfYDiAZjq-jKuP/view?usp=sharing](https://drive.google.com/file/d/1XNnurxESV6KFYiXZnhVfYDiAZjq-jKuP/view?usp=sharing)
 
