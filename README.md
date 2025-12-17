@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tasmim.tr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XNnurxESV6KFYiXZnhVfYDiAZjq-jKuP/view?usp=sharing](https://drive.google.com/file/d/1XNnurxESV6KFYiXZnhVfYDiAZjq-jKuP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16A6CETz0FU161LN6UjP_df4QRZIVG9Ei/view?usp=sharing](https://drive.google.com/file/d/16A6CETz0FU161LN6UjP_df4QRZIVG9Ei/view?usp=sharing)
 
 - ⚡ Fun fact **I won all-you-can-eat competition**
 
