@@ -1,6 +1,6 @@
 [![MasterHead](http://res.cloudinary.com/dwmwpmrpo/image/upload/v1715366569/qbnz78aqrqixwkiwoslu.png)](http://res.cloudinary.com/dwmwpmrpo/image/upload/v1715366569/qbnz78aqrqixwkiwoslu.png)
 <h1 align="center">Hi there👋, I'm Tasmim Rahman</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasmim20&label=Profile%20views&color=0e75b6&style=flat" alt="tasmim20" /> </p>
